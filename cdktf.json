@@ -2,12 +2,9 @@
   "language": "go",
   "app": "go run main.go",
   "codeMakerOutput": "generated",
-  "projectId": "0dfbcfe2-f152-4147-a1d7-dc510060856f",
+  "projectId": "9bd8907e-cdfa-4b2c-8dc8-7ee6af145b2c",
   "sendCrashReports": "true",
-  "terraformProviders": [
-    "hashicorp/aws@~> 4.0.0",
-    "kreuzwerker/docker@~> 2.20"
-  ],
+  "terraformProviders": [],
   "terraformModules": [],
   "context": {
     "excludeStackIdFromLogicalIds": "true",
